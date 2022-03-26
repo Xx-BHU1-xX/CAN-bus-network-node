@@ -15,4 +15,5 @@ ESP32 Devkit-V1 is being used as the main microcontroller. The board will serve 
 * CAN
 * Wheel speed
 * Analog
+
 Documentation for all sheets can be found in this repo
