@@ -8,3 +8,4 @@ The main intent of this project was to develop a universal PCB which could be in
 * Isolated UART interface for debugging and diagnostic
 
 ## Block diagram of each node
+![Image text](https://github.com/Xx-BHU1-xX/CAN-bus-network-node/canNodeBlockDiagram)
